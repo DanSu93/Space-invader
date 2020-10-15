@@ -1,0 +1,7 @@
+C:\Users\mgoltsev\source\repos\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe.config
+C:\Users\mgoltsev\source\repos\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\mgoltsev\source\repos\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\mgoltsev\source\repos\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.csprojAssemblyReference.cache
+C:\Users\mgoltsev\source\repos\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.csproj.CoreCompileInputs.cache
+C:\Users\mgoltsev\source\repos\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\mgoltsev\source\repos\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.pdb

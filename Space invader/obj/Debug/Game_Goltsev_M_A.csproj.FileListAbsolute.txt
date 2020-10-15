@@ -1,0 +1,49 @@
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 2\Домашняя работа\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe.config
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 2\Домашняя работа\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 2\Домашняя работа\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 2\Домашняя работа\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csprojAssemblyReference.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 2\Домашняя работа\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csproj.CoreCompileInputs.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 2\Домашняя работа\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 2\Домашняя работа\Lesson1_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson2_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe.config
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson2_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson2_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson2_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csprojAssemblyReference.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson2_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csproj.CoreCompileInputs.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson2_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson2_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe.config
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csprojAssemblyReference.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csproj.CoreCompileInputs.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.Properties.Resources.resources
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 3\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csproj.GenerateResource.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 4\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe.config
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 4\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 4\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 4\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csprojAssemblyReference.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 4\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.Properties.Resources.resources
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 4\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csproj.GenerateResource.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 4\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csproj.CoreCompileInputs.cache
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 4\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\nairo\Downloads\C# Уровень 2\Урок 4\Домашняя работа\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\v_eleven\Downloads\Telegram Desktop\Lesson3_Goltsev_M_A\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe.config
+C:\Users\v_eleven\Downloads\Telegram Desktop\Lesson3_Goltsev_M_A\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\v_eleven\Downloads\Telegram Desktop\Lesson3_Goltsev_M_A\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\v_eleven\Downloads\Telegram Desktop\Lesson3_Goltsev_M_A\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe
+C:\Users\v_eleven\Downloads\Telegram Desktop\Lesson3_Goltsev_M_A\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.pdb
+C:\Users\v_eleven\Downloads\Telegram Desktop\Lesson3_Goltsev_M_A\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csprojResolveAssemblyReference.cache
+C:\Users\v_eleven\Downloads\Telegram Desktop\Lesson3_Goltsev_M_A\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.Properties.Resources.resources
+C:\Users\v_eleven\Downloads\Telegram Desktop\Lesson3_Goltsev_M_A\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csproj.GenerateResource.Cache
+E:\Maxim Goltsev\Projects\C#\GeekBrains\C# Уровень 2\Lesson3_Goltsev_M_A_reviewed\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe.config
+E:\Maxim Goltsev\Projects\C#\GeekBrains\C# Уровень 2\Lesson3_Goltsev_M_A_reviewed\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.exe
+E:\Maxim Goltsev\Projects\C#\GeekBrains\C# Уровень 2\Lesson3_Goltsev_M_A_reviewed\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\bin\Debug\Lesson1_Goltsev_M_A.pdb
+E:\Maxim Goltsev\Projects\C#\GeekBrains\C# Уровень 2\Lesson3_Goltsev_M_A_reviewed\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csprojAssemblyReference.cache
+E:\Maxim Goltsev\Projects\C#\GeekBrains\C# Уровень 2\Lesson3_Goltsev_M_A_reviewed\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.Properties.Resources.resources
+E:\Maxim Goltsev\Projects\C#\GeekBrains\C# Уровень 2\Lesson3_Goltsev_M_A_reviewed\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csproj.GenerateResource.cache
+E:\Maxim Goltsev\Projects\C#\GeekBrains\C# Уровень 2\Lesson3_Goltsev_M_A_reviewed\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Game_Goltsev_M_A.csproj.CoreCompileInputs.cache
+E:\Maxim Goltsev\Projects\C#\GeekBrains\C# Уровень 2\Lesson3_Goltsev_M_A_reviewed\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.exe
+E:\Maxim Goltsev\Projects\C#\GeekBrains\C# Уровень 2\Lesson3_Goltsev_M_A_reviewed\Lesson3_Goltsev_M_A\Lesson1_Goltsev_M_A\obj\Debug\Lesson1_Goltsev_M_A.pdb
